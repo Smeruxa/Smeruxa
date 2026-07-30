@@ -10,9 +10,7 @@
 [![React](https://img.shields.io/badge/React-06070c?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-06070c?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-06070c?style=for-the-badge&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
-
-<br/>
-
+<br>
 [![Website](https://img.shields.io/badge/website-smeruxa.ru-0e1118?style=for-the-badge&labelColor=06070c&color=3dcfff)](https://smeruxa.ru/)
 [![Telegram](https://img.shields.io/badge/telegram-@Smeruxa-0e1118?style=for-the-badge&labelColor=06070c&color=3dcfff)](https://t.me/Smeruxa)
 
