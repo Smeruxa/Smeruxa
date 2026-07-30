@@ -4,7 +4,7 @@
 
 # [Алексей](https://smeruxa.ru/)
 
-**разработчик интерфейсов**
+**Разработчик интерфейсов**
 
 `TypeScript` · `React` · `Node.js` · `PostgreSQL`
 
