@@ -1,23 +1,30 @@
-<div align="center">
+<a name="top"></a>
 
-# [Алексей](https://smeruxa.ru/) — разработчик интерфейсов
+<table>
+<tr>
+<td width="42%" valign="middle">
+  <img src="./assets/portrait.png" width="320" alt="Алексей" />
+</td>
+<td valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=3DCFFF&center=true&vCenter=true&width=560&height=40&lines=SMERUXA;TypeScript+%C2%B7+React+%C2%B7+Node.js;fullstack+%C2%B7+Yandex" alt="typing" />
+### SMERUXA
+
+# [Алексей](https://smeruxa.ru/)
+### разработчик интерфейсов
+
+TypeScript · React · Node.js · PostgreSQL
 
 <br/>
 
-[![Website](https://img.shields.io/badge/website-smeruxa.ru-0e1118?style=for-the-badge&labelColor=06070c&color=3dcfff)](https://smeruxa.ru/)
-[![Telegram](https://img.shields.io/badge/telegram-@Smeruxa-0e1118?style=for-the-badge&labelColor=06070c&color=3dcfff)](https://t.me/Smeruxa)
+[сайт](https://smeruxa.ru/) · [telegram](https://t.me/Smeruxa)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-<div align="center">
-
 ## Обо мне
-
-</div>
 
 Делаю веб-сервисы и клиентские приложения. Можно целиком, можно отдельно: API, интерфейс, базу или инфраструктуру.
 
@@ -28,35 +35,13 @@
 
 ---
 
-<div align="center">
-
 ## Стек
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,cpp,go,postgres,redis,docker,git,linux,sass,fastapi&theme=dark" alt="skills" />
-
-<br/><br/>
-
-| Languages | Frontend | Backend | Data & Infra |
-|:---------:|:--------:|:-------:|:------------:|
-| TypeScript · JavaScript · Python · C++ · Go · Lua | React · HTML · CSS · Sass | Node.js · REST · WebSocket · Django · FastAPI | PostgreSQL · Redis · Docker · CI/CD · Linux |
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,python,cpp,go,postgres,redis,docker,git,linux,sass,fastapi&theme=dark" alt="skills" />
+</p>
 
 ---
-
-<div align="center">
-
-## Фокус
-
-| Frontend | Backend | Данные | Инфра |
-|:--------:|:-------:|:------:|:-----:|
-| React, TypeScript, формы, состояние, адаптивная вёрстка | Node.js, REST, WebSocket, очереди, внешние API | PostgreSQL и Redis | Docker, CI, окружения, логи |
-
-</div>
-
----
-
-<div align="center">
 
 ## Проекты
 
@@ -71,28 +56,14 @@
 | [Pro-AutoClicker](https://github.com/Smeruxa/Pro-AutoClicker) | Авто-кликер на Qt | C++ |
 | [PhantomPane](https://github.com/Smeruxa/PhantomPane) | Оверлей для Windows 10/11 | C++ |
 
-</div>
+---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Smeruxa&theme=dark&background=06070c&ring=3DCFFF&fire=3DCFFF&currStreakLabel=3DCFFF&sideLabels=8b93a6&currStreakNum=e6eaf2&sideNums=e6eaf2&dates=8b93a6&stroke=1a2030&border=1a2030" alt="streak" />
+</p>
 
 ---
 
-<div align="center">
-
-## GitHub
-
-<img src="https://streak-stats.demolab.com?user=Smeruxa&theme=dark&background=06070c&ring=3DCFFF&fire=3DCFFF&currStreakLabel=3DCFFF&sideLabels=8b93a6&currStreakNum=e6eaf2&sideNums=e6eaf2&dates=8b93a6&stroke=1a2030&border=1a2030" alt="streak" />
-
-</div>
-
----
-
-<div align="center">
-
-## Контакты
-
-[сайт](https://smeruxa.ru/) · [telegram](https://t.me/Smeruxa)
-
-<br/>
-
-<sub>fullstack · интерфейсы · заказы · поддержка</sub>
-
-</div>
+<p align="center">
+  <sub>fullstack · интерфейсы · заказы · поддержка</sub>
+</p>
