@@ -6,6 +6,8 @@
 
 **Разработчик интерфейсов**
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=3DCFFF&center=true&vCenter=true&width=560&height=40&lines=SMERUXA;TypeScript+%C2%B7+React+%C2%B7+Node.js;fullstack+%C2%B7+Yandex" alt="typing" />
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-06070c?style=for-the-badge&logo=typescript&logoColor=3dcfff)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-06070c?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-06070c?style=for-the-badge&logo=nodedotjs&logoColor=339933)](https://nodejs.org/)
