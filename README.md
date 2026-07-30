@@ -8,7 +8,6 @@
 
 [![Website](https://img.shields.io/badge/website-smeruxa.ru-0e1118?style=for-the-badge&labelColor=06070c&color=3dcfff)](https://smeruxa.ru/)
 [![Telegram](https://img.shields.io/badge/telegram-@Smeruxa-0e1118?style=for-the-badge&labelColor=06070c&color=3dcfff)](https://t.me/Smeruxa)
-[![GitHub](https://img.shields.io/badge/github-Smeruxa-0e1118?style=for-the-badge&labelColor=06070c&color=8b93a6)](https://github.com/Smeruxa)
 
 </div>
 
@@ -90,7 +89,7 @@
 
 ## Контакты
 
-[сайт](https://smeruxa.ru/) · [telegram](https://t.me/Smeruxa) · [github](https://github.com/Smeruxa)
+[сайт](https://smeruxa.ru/) · [telegram](https://t.me/Smeruxa)
 
 <br/>
 
