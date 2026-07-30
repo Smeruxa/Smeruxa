@@ -1,26 +1,16 @@
-<a name="top"></a>
+<div align="center">
 
-<table>
-<tr>
-<td width="42%" valign="middle">
-  <img src="./assets/portrait.png" width="320" alt="Алексей" />
-</td>
-<td valign="middle">
-
-### SMERUXA
+<img src="./assets/portrait.png" width="220" alt="Алексей" />
 
 # [Алексей](https://smeruxa.ru/)
-### разработчик интерфейсов
 
-TypeScript · React · Node.js · PostgreSQL
+**разработчик интерфейсов**
 
-<br/>
+`TypeScript` · `React` · `Node.js` · `PostgreSQL`
 
 [сайт](https://smeruxa.ru/) · [telegram](https://t.me/Smeruxa)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
