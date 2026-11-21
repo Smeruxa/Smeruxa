@@ -44,6 +44,7 @@
 | Проект                                                          | Описание                                     | Стек       |
 | :-------------------------------------------------------------- | :------------------------------------------- | :--------- |
 | [PlayTime](https://github.com/Smeruxa/PlayTime)                 | Десктопный мессенджер с голосовыми звонками  | TypeScript |
+| [Flipkiln](https://github.com/Smeruxa/flipkiln)                 | Сервис feature flags и удалённой конфигурации | Vue, C++, PostgreSQL |
 | [tgcraft](https://github.com/Smeruxa/tgcraft)                   | Конструктор Telegram-ботов                   | TypeScript |
 | [bb_balancer](https://github.com/Smeruxa/bb_balancer)           | Балансировщик HTTP-запросов для Node.js      | TypeScript |
 | [STalk-Messenger](https://github.com/Smeruxa/STalk-Messenger)   | Анонимный мессенджер с быстрыми ответами     | TypeScript |
